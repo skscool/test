@@ -1,1 +1,1 @@
-#this is a smlpa project for html
+#this is a sample project for html
